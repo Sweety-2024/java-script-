@@ -1,1 +1,1 @@
-# java-script-
+# java-script- rock paper scissor project
